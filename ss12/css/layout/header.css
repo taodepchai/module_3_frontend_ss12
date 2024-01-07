@@ -1,0 +1,35 @@
+.header {
+  height: 120px;
+  display: flex;
+  width: 100%;
+  background-color: white;
+
+}
+.logo {
+    display: flex;
+  height: 42px;
+  width: 130.05px;
+  margin-top: 39px;
+  margin-left: 5%;
+  gap: 12x;
+  font-size: 24px;
+}
+.header-element {
+    padding: 10px;
+  margin-top: 38px;
+  font-size: 18px;
+}
+hr {
+  opacity: 30%;
+}
+.header-container {
+    margin-left: 25%;
+    display: flex;
+    font-family: Arial, sans-serif;
+}
+.p{
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: medium;
+}
